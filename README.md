@@ -18,7 +18,7 @@ This plugin is **100% free and open-source**. If it's helping your website, cons
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
-**Made with ❤️ by [Digit Nom](https://taxyz.co.uk/)**
+**Made with ❤️ by [Digit Nom]**
 
 ---
 
@@ -177,7 +177,6 @@ This was a bug in earlier versions. Update to v1.3 to fix this issue.
 ## 📞 Support
 
 - **Bug Reports & Feature Requests**: [GitHub Issues](https://github.com/digitnom/elementor-category-archive-override/issues)
-- **Email Support**: hello@taxyz.co.uk
 - **Documentation**: See [README.md](README.md), [INSTALLATION-CHECKLIST.md](INSTALLATION-CHECKLIST.md), and [USAGE-EXAMPLES.md](USAGE-EXAMPLES.md)
 
 ### Need Help?
@@ -239,8 +238,7 @@ See [LICENSE](LICENSE) file for full license text.
 ## 👨‍💻 About the Developer
 
 **Digit Nom**
-- 🌐 Website: [https://taxyz.co.uk/](https://taxyz.co.uk/)
-- 📧 Email: hello@taxyz.co.uk
+- 🌐 Tested Website: [https://taxyz.co.uk/](https://taxyz.co.uk/)
 - ☕ Support: [Buy Me a Coffee](https://buymeacoffee.com/digitnom)
 
 Built with ❤️ for WordPress enthusiasts who love Elementor!
